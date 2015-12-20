@@ -10,3 +10,7 @@ See [logstash documentation](https://www.elastic.co/guide/en/logstash/current/pl
 
 Use `vagrant up` to build.
 
+## Installation
+
+Run `bin/plugin update` followed by `bin/plugin install logstash-input-http_poller-2.0.3.gem`.
+
